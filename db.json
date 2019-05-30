@@ -1,0 +1,59 @@
+{
+  "Employee": [
+    {
+      "EmpId": "1",
+      "EmpTagNumber": "A111",
+      "FirstName": "Ruchi",
+      "LastName": "Goswami",
+      "EmailAdress": "r@gmail.com",
+      "Department": "Dev",
+      "Birthdate": "1990-04-04",
+      "Designation": "Software Developer",
+      "id": 1
+    },
+    {
+      "EmpId": "2",
+      "EmpTagNumber": "A112",
+      "FirstName": "Riya",
+      "LastName": "Gor",
+      "EmailAdress": "riya@gmail.com",
+      "Department": "QA",
+      "Birthdate": "1992-04-04",
+      "Designation": "QA Engineer",
+      "id": 2
+    },
+    {
+      "EmpId": "3",
+      "EmpTagNumber": "A113",
+      "FirstName": "Raj",
+      "LastName": "Gor",
+      "EmailAdress": "raj@gmail.com",
+      "Department": "QA",
+      "Birthdate": "1994-04-04",
+      "Designation": "QA Engineer",
+      "id": 3
+    },
+    {
+      "EmpId": "4",
+      "EmpTagNumber": "A114",
+      "FirstName": "Tina",
+      "LastName": "Liam",
+      "EmailAdress": "tiya@gmail.com",
+      "Department": "QA",
+      "Birthdate": "1990-04-04",
+      "Designation": "QA Engineer",
+      "id": 4
+    },
+    {
+      "EmpId": 5,
+      "EmpTagNumber": "A115",
+      "FirstName": "Anaa",
+      "LastName": "Pinto",
+      "EmailAdress": "ana@a.com",
+      "Department": "QA",
+      "Birthdate": "1997-02-01",
+      "Designation": "QA Engineer",
+      "id": 5
+    }
+  ]
+}
